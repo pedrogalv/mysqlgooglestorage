@@ -1,0 +1,20 @@
+{
+  "name": "mysqlautomaticupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/storage": "^2.3.4",
+    "googleapis": "^27.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pedrosilva",
+  "license": "ISC",
+  "repositories": [{
+    "type": "git",
+    "url": "https://github.com/pedrogalv/mysqlgooglestorage.git"
+  }]
+}
