@@ -26,5 +26,5 @@ $ node .
 
 ### (Linux) Cronjob - Everyday, at midnight
 ```sh
-0 0 * * * cd <project dir> && node .
+0 0 * * * <NODE_PATH>/bin && <PROJECT_PATH>/index.js
 ```
